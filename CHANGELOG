@@ -106,7 +106,7 @@ Detailed changes:
 [text] ADDED: TextToPascal() - Get Pascal case notation version of provided string
 [text] ADDED: TextToInteger() - Get integer value from text (negative values not supported)
 [raudio] ADDED: ExportWave() - Export wave data to file
-[raudio] ADDED: ExportWaveAsCode() - Export wave sample data to code (.h)
+[raudio] ADDED: importWaveAsCode() - Export wave sample data to code (.h)
 [raudio] ADDED: IsAudioStreamPlaying() - Check if audio stream is playing
 [raudio] ADDED: SetAudioStreamVolume() - Set volume for audio stream (1.0 is max level)
 [raudio] ADDED: SetAudioStreamPitch() - Set pitch for audio stream (1.0 is base level)
